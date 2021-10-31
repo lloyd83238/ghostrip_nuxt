@@ -1,0 +1,1 @@
+# ghostrip_nuxt
